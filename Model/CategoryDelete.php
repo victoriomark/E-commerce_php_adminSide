@@ -1,0 +1,1 @@
+<?phpinclude './Connect.php';global $conn;if($_SERVER['REQUEST_METHOD'] === 'POST'){    $ID = $_POST['DELid'];    $Query = "DELETE FROM category WHERE CategoryID = $ID";    mysqli_query($conn,$Query);}

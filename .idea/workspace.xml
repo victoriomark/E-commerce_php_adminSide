@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca96b386-0787-4f74-8496-1af9f741fa74" name="Changes" comment="Merge remote-tracking branch 'origin/main'" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;victoriomark&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="97dc687f-6cb5-4c74-87d5-851222ed58ce" />
+        <option name="url" value="https://github.com/victoriomark/PHP_PRACTICE.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2gDVDERGKSkZ4jtW0ufvrMiNxm1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;SQL Inserts&quot;,
+    &quot;database.data.extractors.current.id&quot;: &quot;SQL Inserts&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;L:/PhpstormProjects/Milk-Tea-E-Commerce/Group2&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="L:\PhpstormProjects\Group2" />
+      <recent name="L:\PhpstormProjects\Group2\Fdf" />
+      <recent name="L:\PhpstormProjects\E-Commerce-Adasys-Admin\Model\Product_Images" />
+      <recent name="L:\PhpstormProjects\E-Commerce-Adasys-Admin\Dashboard_Admin" />
+      <recent name="L:\PhpstormProjects\E-Commerce-Adasys-Admin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="L:\PhpstormProjects\Group2\View" />
+      <recent name="L:\PhpstormProjects\Milk-Tea-E-Commerce\Milk_Tea_E-Commerce\E-commerce\Assets\images" />
+      <recent name="L:\PhpstormProjects\E-Commerce-Adasys-Admin\E-commerce\Assets" />
+      <recent name="L:\PhpstormProjects\E-Commerce-Adasys-Admin\Model\Product_Images" />
+      <recent name="L:\PhpstormProjects\E-Commerce-Adasys-Admin" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14475.35" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca96b386-0787-4f74-8496-1af9f741fa74" name="Changes" comment="" />
+      <created>1715232014687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715232014687</updated>
+      <workItem from="1715232018030" duration="7826000" />
+      <workItem from="1715244013620" duration="3494000" />
+      <workItem from="1715254341176" duration="17615000" />
+      <workItem from="1715296615788" duration="3714000" />
+      <workItem from="1715300481044" duration="1964000" />
+      <workItem from="1715303040742" duration="6478000" />
+      <workItem from="1715321355198" duration="2188000" />
+      <workItem from="1715324242837" duration="1077000" />
+      <workItem from="1715340473637" duration="12960000" />
+      <workItem from="1715390324806" duration="17362000" />
+      <workItem from="1715412443211" duration="6283000" />
+      <workItem from="1715426710622" duration="2697000" />
+      <workItem from="1715429421412" duration="10547000" />
+      <workItem from="1715472004787" duration="4005000" />
+      <workItem from="1715517927584" duration="6346000" />
+      <workItem from="1715528405052" duration="4377000" />
+      <workItem from="1715554125675" duration="14114000" />
+      <workItem from="1715573711954" duration="2573000" />
+      <workItem from="1715576303220" duration="2481000" />
+      <workItem from="1715584425884" duration="122000" />
+      <workItem from="1715584691537" duration="1106000" />
+      <workItem from="1715591382115" duration="366000" />
+      <workItem from="1715594645334" duration="10713000" />
+      <workItem from="1715645177081" duration="3134000" />
+      <workItem from="1715652007642" duration="5029000" />
+      <workItem from="1715667760370" duration="438000" />
+      <workItem from="1715674953857" duration="611000" />
+      <workItem from="1715723328665" duration="1072000" />
+      <workItem from="1715724424290" duration="1445000" />
+      <workItem from="1715771453744" duration="675000" />
+      <workItem from="1715774590979" duration="48000" />
+      <workItem from="1715775325665" duration="54000" />
+      <workItem from="1715777790025" duration="437000" />
+      <workItem from="1715865275799" duration="9610000" />
+      <workItem from="1715907102423" duration="8000" />
+      <workItem from="1715907362824" duration="7000" />
+      <workItem from="1715907404838" duration="308000" />
+      <workItem from="1715910574900" duration="3483000" />
+      <workItem from="1715922775744" duration="757000" />
+      <workItem from="1716039869764" duration="261000" />
+      <workItem from="1716117003058" duration="333000" />
+      <workItem from="1716118441103" duration="94000" />
+      <workItem from="1716119746806" duration="1174000" />
+      <workItem from="1716126141511" duration="29000" />
+      <workItem from="1716127889897" duration="66000" />
+      <workItem from="1716128460147" duration="1560000" />
+      <workItem from="1716166059887" duration="564000" />
+      <workItem from="1716208322311" duration="758000" />
+      <workItem from="1716209179752" duration="1635000" />
+      <workItem from="1716255531924" duration="845000" />
+      <workItem from="1716293138941" duration="4805000" />
+      <workItem from="1716299604825" duration="1808000" />
+      <workItem from="1716305671817" duration="174000" />
+      <workItem from="1716511751583" duration="209000" />
+      <workItem from="1716515358092" duration="4151000" />
+      <workItem from="1716521293193" duration="1529000" />
+      <workItem from="1716538191582" duration="1204000" />
+      <workItem from="1716543732456" duration="19000" />
+      <workItem from="1716686064543" duration="623000" />
+      <workItem from="1716703131426" duration="597000" />
+      <workItem from="1716802995910" duration="269000" />
+      <workItem from="1717023489113" duration="954000" />
+      <workItem from="1717471174130" duration="1760000" />
+      <workItem from="1717479326002" duration="1198000" />
+      <workItem from="1717483396634" duration="599000" />
+      <workItem from="1717492488391" duration="2000" />
+    </task>
+    <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1715428831300</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715428831300</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1715603362638</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715603362638</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1715603448445</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715603448445</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1715603483708</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715603483708</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1715646817523</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715646817523</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/E-commerce/Menu.js</url>
+          <line>105</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+<?phpinclude './Connect.php';global $conn;if($_SERVER['REQUEST_METHOD'] === 'POST' || isset($_POST['ID_delete'])){    $ID_delete = $_POST['ID_delete'];    $Query = "DELETE FROM products WHERE ID = $ID_delete";    mysqli_query($conn,$Query);}

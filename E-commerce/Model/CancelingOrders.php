@@ -1,0 +1,1 @@
+<?phpinclude './Connect.php';global $conn;if($_SERVER['REQUEST_METHOD'] === 'POST'){    $OrderId = $_POST['OrderId'];    $Query = "UPDATE orders SET OrderStatus = 'Canceled' WHERE OrderId = $OrderId";    mysqli_query($conn,$Query);}

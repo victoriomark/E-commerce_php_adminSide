@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/E-commerce/Menu.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/E-commerce/Model/AddOrders.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/E-commerce/Model/CancelingOrders.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/E-commerce/Model/DisplayingMenus.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/E-commerce/Model/Order_form.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/E-commerce/index.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/AddCategory.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/AddNewProduct.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/CategoryDelete.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/DeleteProducts.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/DisplayCategory.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/DisplayOrderList.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/DisplayProductList.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/DisplaySearch_Result.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/DisplayUpdatedRevenue.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/Login_admin.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/SaveProductUpdated_.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/SaveUpdatedCategory.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/UpdateSaveStatus.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/UpdateStatus.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/ViewProducts.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/ViewUpdateCategry.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Model/ViewUpdateProductList.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/View/Dashboard.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/View/Products.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/View/Report.php" dialect="GenericSQL" />
+  </component>
+</project>

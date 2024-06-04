@@ -1,0 +1,1 @@
+<?phpinclude './Connect.php';global $conn;if($_SERVER['REQUEST_METHOD'] === 'POST'){$UpdatedStatus = $_POST['UpdatedStatus'];$ID = $_POST['ID'];$Query = "UPDATE  orders SET OrderStatus = '$UpdatedStatus' WHERE OrderId = $ID";mysqli_query($conn,$Query);}
